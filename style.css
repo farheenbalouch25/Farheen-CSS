@@ -1,0 +1,37 @@
+ #H1{
+    color: white;
+    background-color: rgb(54, 53, 53);
+ text-align: center;
+}
+.links{
+    color: #ffffff90;
+    font-size: xx-large;
+    opacity: 10;
+    background-color: rgb(66, 64, 64);
+    text-align: center;
+    opacity: 1;
+}
+.container{
+ color: rgb(215, 199, 199);
+    background-color: antiquewhite;
+   
+
+}
+.content{
+    color:white;
+    background-color:rgb(67, 66, 66);
+    text-align: center;
+
+  
+}
+#area{  
+    color: black;
+    background-color: rgb(244, 239, 232);
+    text-align: center;
+   
+}
+#p1{
+    color: white;
+    background-color: rgb(75, 70, 70);
+    text-align: center;
+}
